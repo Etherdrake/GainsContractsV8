@@ -4,6 +4,7 @@ UniV3Pool is not added because the contract is not verified
 
 Arbitrum Sepolia - DAI Stack
 
+```
 GainsNetworkToken: 0xA5a0eB8710f9a949ad5F4501C3494F2FdA58FFe3
 GainsNetworkCollateral_Mock: 0xfBb7E7FEE1525958bf5a4F04ed8D7be547AB6d27
 UniV3Pool: 0x243F364274c67d38c766bd2485B42dFE934EF43e
@@ -53,3 +54,4 @@ GTokenOpenPnlFeed: 0x38e6cEFcE96bdB65D64Fce8f4736b3763A5F9eD2
 GNSTradingCallbacks: 0xc780B89FC7073C6414f9183dC518C3Ca18334E98
 GNSTrading: 0xb2fA4A00D1eB6866d209569508b92D3D50840cbD
 TradingBackend: 0x4Bd03302b82493F9c00cf0338BDec644E165A5F5
+```
